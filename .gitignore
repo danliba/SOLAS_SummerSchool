@@ -1,0 +1,14 @@
+*.png
+*.zarr
+*.nc
+*.nc.zip
+*.csv
+*.xlsx
+*.pdf
+
+.DS_Store
+.ipynb_checkpoints/
+
+/Teaching
+/FluxEngine
+/paper_AERONET_RI
